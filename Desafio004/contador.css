@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+.titulo00{
+    color: aliceblue;
+    display: flex;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.titulo01{
+    color: aliceblue;
+    display: flex;
+    margin-left: 700px;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.quebra{
+    margin-left: 900px;
+    color: aliceblue;
+     margin-top: 30px;
+     font-size: 40px;
+}
+.quebra1{
+    margin-left: 835px;
+    color: aliceblue;
+     margin-top: 30px;
+     font-size: 40px;
+}
+.caixa input{
+    padding: 50px 10px;
+    margin-top: 30px;
+    margin-left: 450px;
+    border-radius: 8px;
+    width: 950px;
+    height: 60px;
+    border: 2px solid #4b4949;
+    background-color: rgb(189, 182, 179);
+}
+.checkbox  {
+            color: aliceblue;
+            margin-top: 30px;
+            margin-left: 450px;
+        }
+.checkbox01 {
+    color: aliceblue;
+            margin-top: -17px;
+            margin-left: 700px;
+}        
+        
