@@ -45,5 +45,30 @@ body{
     color: aliceblue;
             margin-top: -17px;
             margin-left: 700px;
-}        
-        
+} 
+.numero{
+    color: aliceblue;
+    margin-left: 450px;
+}  
+.Texto{
+    color: aliceblue;
+    margin-left: 450px;
+}            
+.numero01{
+    color: aliceblue;
+    margin-left: 770px;
+    margin-top: -88px;
+}   
+.Texto01{
+    color: aliceblue;
+    margin-left: 770px;
+}
+.numero02{
+    color: aliceblue;
+    margin-left: 1150px;
+    margin-top: -88px;
+}  
+.Texto02{
+    color: aliceblue;
+    margin-left: 1150px
+}  
