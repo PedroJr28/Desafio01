@@ -58,10 +58,13 @@ body{
     color: aliceblue;
     margin-left: 770px;
     margin-top: -88px;
+    z-index: 2;
 }   
 .Texto01{
     color: aliceblue;
     margin-left: 770px;
+    z-index: 2;
+    position: relative;
 }
 .numero02{
     color: aliceblue;
@@ -72,3 +75,6 @@ body{
     color: aliceblue;
     margin-left: 1150px
 }  
+.totaltexto{
+    margin-top: 100px;
+}
