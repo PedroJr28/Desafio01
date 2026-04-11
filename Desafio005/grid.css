@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(247, 244, 241);
+}
+.caixa00{
+    background-color: rgb(236, 215, 187);
+    padding: 10px;
+    border-radius: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-left: 100px;
+    text-align: center;
+    letter-spacing: -1px;
+    
+}
+.caixa00 h2 p {
+     margin-top: 3px
+}
+
+.botão img{
+    width: 40%;
+}
