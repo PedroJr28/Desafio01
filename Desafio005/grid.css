@@ -6,7 +6,7 @@ body{
     padding: 10px;
     border-radius: 100px;
     font-family: 'Times New Roman', Times, serif;
-    width: 500px;
+    width: 400px;
     margin-left: 100px;
     text-align: center;
     letter-spacing: -1px;
@@ -18,4 +18,39 @@ body{
 
 .botão img{
     width: 40%;
+}
+.caixa01{
+
+    background-color: rgb(240, 180, 102);
+    padding: 50px;
+     border-radius: 100px;
+     font-family: 'Times New Roman', Times, serif;
+     width: 300px;
+     margin-left: 60px;
+     text-align: center;
+      letter-spacing: -1px;
+      font-size: 25px;
+}
+.caixa01 h2 p {
+     margin-top: 3px
+}
+.dialogo img{
+    width: 60%;
+}
+.caixa02{
+    margin-left: 700px;
+    margin-top: -800px;
+    background-color: rgb(150, 102, 240);
+     border-radius: 50px;
+     padding: 50px;
+     width: 500px;
+     margin-left: 500px;
+     text-align: center;
+     color: aliceblue;
+     font-size: 20px;
+     font-family: 'Times New Roman', Times, serif;
+}
+.estrela img{
+        width: 60%;
+
 }
