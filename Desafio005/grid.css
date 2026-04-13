@@ -98,14 +98,44 @@ body{
         padding-left: 70px;
     }
     .caixa05{
-        margin-left: 1000px;
-        margin-top: -550px;
+        margin-left: 950px;
+        margin-top: -450px;
         background-color: rgb(240, 180, 102);
         border-radius: 20px;
         padding: 15px;
         width: 400px;
-        
+        font-family: 'Times New Roman', Times, serif;
     }
     .cronograma img{
         width: 50%;
+    }
+    .caixa06{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 1150px;
+        margin-top: -900px;
+        background-color: rgb(186, 156, 241);
+         border-radius: 20px;
+         padding: 13px;
+         width: 400px;
+    }
+    .grafico img{
+        width: 60%;
+    }
+    .caixa06 h3 {
+        font-size: 15px;
+    }
+    .caixa07{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 1435px;
+        margin-top: 20px;
+        background-color: rgb(150, 102, 240);
+        border-radius: 20px;
+        padding: 13px;
+        width: 400px;
+    }
+    .grafico02 img{
+        width: 80%;
+    }
+    .caixa07 h1{
+        color: white;
     }
