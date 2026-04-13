@@ -97,3 +97,15 @@ body{
         width: 50%;
         padding-left: 70px;
     }
+    .caixa05{
+        margin-left: 1000px;
+        margin-top: -550px;
+        background-color: rgb(240, 180, 102);
+        border-radius: 20px;
+        padding: 15px;
+        width: 400px;
+        
+    }
+    .cronograma img{
+        width: 50%;
+    }
