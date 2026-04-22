@@ -9,7 +9,7 @@
      margin-top:15px;
      font-size: 25px;
      font-family: Arial, sans-serif;
-     color: #111111;
+     color: white;
 }
 .nome h5{
     color:#C5F82A ;
@@ -20,7 +20,7 @@
 .nome02{
     margin-left: 745px;
     font-family: Arial, sans-serif;
-    
+    color: white;
 }
 .botão{
     margin-left: 725px;
@@ -37,7 +37,7 @@
 .botão01{
     margin-left: 680px;
     margin-top: 30px;
-    background-color: #333333;
+    background-color: #666565;
     color: white;
     padding: 18px 130px;
     border-radius: 12px;
@@ -49,7 +49,7 @@
 .botão02{
     margin-left: 720px;
     margin-top: 30px;
-    background-color: #333333;
+    background-color: #666565;
     color: white;
     padding: 18px 130px;
     border-radius: 12px;
@@ -61,7 +61,7 @@
 .botão03{
     margin-left: 730px;
     margin-top: 30px;
-    background-color: #333333;
+    background-color: #666565;
     color: white;
     padding: 18px 130px;
     border-radius: 12px;
@@ -73,7 +73,7 @@
 .botão04{
      margin-left: 718px;
     margin-top: 30px;
-    background-color: #333333;
+    background-color: #666565;
     color: white;
     padding: 18px 130px;
     border-radius: 12px;
@@ -83,5 +83,11 @@
     font-size: 14px;
 }
 .caixa{
-    
+    background-color: #141414;
+    border-radius: 20px;
+    padding: 350px;
+    width: 100%;
+    max-width: 0px;
+    margin-left: 520px;
+    margin-top: -675px;
 }
