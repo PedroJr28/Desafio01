@@ -124,6 +124,15 @@
     font-size: 50px;
     color: black;
     font-style: italic;
+
+}.caixa{
+border-radius: 20px 20px 100px 20px;
+  background-color: #ffff ;  
+padding: 250px;
+max-width: 400px;
+margin-left: 450px;
+margin-top: -450px;
+border: 1px solid #ccc;
 }
 
 
