@@ -42,3 +42,25 @@
     padding: 10px 20px ;
     width: 10px;
 }
+.passo3{
+    margin-left: 780px;
+    margin-top: -30px;
+   font-family: Ubuntu , sans-serif;
+}
+.passo3 h3 {
+    margin-top: 5px;
+}
+.numero4{
+    margin-left: 700px;
+    margin-top: 55px;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 20px ;
+    width: 10px;
+}
+.passo4{
+    margin-left: 780px;
+    margin-top: -30px;
+   font-family: Ubuntu , sans-serif;
+}
