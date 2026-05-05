@@ -16,3 +16,12 @@
 .passo1 h3 {
     margin-top: 5px;
 }
+.numero2{
+    margin-left: 700px;
+    margin-top: 55px;
+    background-color: #CAE4FF;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 20px ;
+    width: 10px;
+}
