@@ -1,76 +1,92 @@
 .numero1{
-    margin-left: 700px;
+    margin-left: 600px;
     margin-top: 55px;
     background-color: #CAE4FF;
     font-weight: bold;
     border-radius: 20px;
     padding: 10px 20px ;
     width: 10px;
+    position: relative;
+   z-index: 2;
     
 }
 .passo1{
-    margin-left: 780px;
+    margin-left: 670px;
     margin-top: -30px;
    font-family: Ubuntu , sans-serif;
+   position: relative;
+   z-index: 2;
 }
 .passo1 h3 {
     margin-top: 5px;
 }
 .numero2{
-    margin-left: 700px;
+    margin-left: 600px;
     margin-top: 55px;
     border: 1px solid #ccc;
     font-weight: bold;
     border-radius: 20px;
     padding: 10px 20px ;
     width: 10px;
+    position: relative;
+   z-index: 2;
 }
 .passo2{
-    margin-left: 780px;
+    margin-left: 670px;
     margin-top: -30px;
    font-family: Ubuntu , sans-serif;
+   position: relative;
+   z-index: 2;
 }
 .passo2 h3 {
     margin-top: 5px;
 }
 .numero3{
-    margin-left: 700px;
+    margin-left: 600px;
     margin-top: 55px;
     border: 1px solid #ccc;
     font-weight: bold;
     border-radius: 20px;
     padding: 10px 20px ;
     width: 10px;
+    position: relative;
+   z-index: 2;
 }
 .passo3{
-    margin-left: 780px;
+    margin-left: 670px;
     margin-top: -30px;
    font-family: Ubuntu , sans-serif;
+   position: relative;
+   z-index: 2;
 }
 .passo3 h3 {
     margin-top: 5px;
 }
 .numero4{
-    margin-left: 700px;
+    margin-left: 600px;
     margin-top: 55px;
     border: 1px solid #ccc;
     font-weight: bold;
     border-radius: 20px;
     padding: 10px 20px ;
     width: 10px;
+    position: relative;
+   z-index: 2;
 }
 .passo4{
-    margin-left: 780px;
+    margin-left: 670px;
     margin-top: -30px;
    font-family: Ubuntu , sans-serif;
+   position: relative;
+   z-index: 2;
 }
 .passo4 h3 { 
     margin-top: 5px;
 }
 .calendário{
-    margin-left: 690px;
-    margin-top: -540px;
+    margin-left: 580px;
+    margin-top: -600px;
     position: relative;
     display: flex;
-    z-index: 2;
+    z-index: 1;
 }
