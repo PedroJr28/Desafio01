@@ -98,3 +98,8 @@
     font-weight: bold;
     font-size: 30px;
 }
+.titulo2{
+    margin-left: 1000px;
+    transform: translateY(-380px);
+    font-family: Ubuntu , sans-serif;
+}
